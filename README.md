@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-10B981)
 ![Status](https://img.shields.io/badge/Status-Active-6C63FF)
 
-A full-stack blogging platform converted from **React.js + Appwrite** to **Core PHP + MySQL**.  
+A full-stack blogging platform **Core PHP + MySQL**.  
 Create, manage, and explore blog posts with a clean and intuitive interface — no frameworks required.
 
 ---

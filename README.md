@@ -3,10 +3,10 @@
 ![PHP](https://img.shields.io/badge/PHP-8%2B-7A86B6?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-00758F?logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-Server-FB7A24?logo=apache&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-10B981)
 ![Status](https://img.shields.io/badge/Status-Active-6C63FF)
 
-A full-stack blogging platform **Core PHP + MySQL**.  
+A full-stack blogging platform **Core PHP + MySQL**, 
+and also in **React.js + Appwrite** `https://github.com/MontuSherasiya/MegaBlog`. 
 Create, manage, and explore blog posts with a clean and intuitive interface — no frameworks required.
 
 ---

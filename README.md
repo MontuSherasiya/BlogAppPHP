@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-6C63FF)
 
 A full-stack blogging platform **Core PHP + MySQL**, 
-and also in **React.js + Appwrite** `https://github.com/MontuSherasiya/MegaBlog`. 
+and also in **React.js + Appwrite** (https://github.com/MontuSherasiya/MegaBlog). 
 Create, manage, and explore blog posts with a clean and intuitive interface — no frameworks required.
 
 ---
